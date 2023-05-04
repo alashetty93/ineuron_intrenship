@@ -1,0 +1,69 @@
+REFERENCE DATASET COLUMNS:
+  ID: int64
+  Project Code: object
+  'PQ #': object
+  'PO / SO #': object
+  'ASN/DN #': object
+  Country: object
+  Managed By: object
+  Fulfill Via: object
+  Vendor INCO Term: object
+  Shipment Mode: object
+  PQ First Sent to Client Date: object
+  PO Sent to Vendor Date: object
+  Scheduled Delivery Date: object
+  Delivered to Client Date: object
+  Delivery Recorded Date: object
+  Product Group: object
+  Sub Classification: object
+  Vendor: object
+  Item Description: object
+  Molecule/Test Type: object
+  Brand: object
+  Dosage: object
+  Dosage Form: object
+  Unit of Measure (Per Pack): int64
+  Line Item Quantity: int64
+  Line Item Value: float64
+  Pack Price: float64
+  Unit Price: float64
+  Manufacturing Site: object
+  First Line Designation: object
+  Weight (Kilograms): object
+  Freight Cost (USD): object
+  Line Item Insurance (USD): float64
+REFERENCE NUMERICAL COLUMNS:
+  ID: int64
+  Unit of Measure (Per Pack): int64
+  Line Item Quantity: int64
+  Line Item Value: float64
+  Pack Price: float64
+  Unit Price: float64
+  Line Item Insurance (USD): float64
+REFERENCE CATEGORICAL COLUMNS:
+  Project Code: object
+  'PQ #': object
+  'PO / SO #': object
+  'ASN/DN #': object
+  Country: object
+  Managed By: object
+  Fulfill Via: object
+  Vendor INCO Term: object
+  Shipment Mode: object
+  PQ First Sent to Client Date: object
+  PO Sent to Vendor Date: object
+  Scheduled Delivery Date: object
+  Delivered to Client Date: object
+  Delivery Recorded Date: object
+  Product Group: object
+  Sub Classification: object
+  Vendor: object
+  Item Description: object
+  Molecule/Test Type: object
+  Brand: object
+  Dosage: object
+  Dosage Form: object
+  Manufacturing Site: object
+  First Line Designation: object
+  Weight (Kilograms): object
+  Freight Cost (USD): object
